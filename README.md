@@ -1,7 +1,7 @@
-Machine Learning for Health Metricians
---------------------------------------
+Artificial Intelligence for Health Metricians
+---------------------------------------------
 
-An unofficial weekly course by Abraham D Flaxman, Spring 2013.
+A GH590 topic course by Abraham D Flaxman, Winter 2015.
 
 
-Lecture notes, exercises, and homework solutions
+Lecture notes, exercises, homework, and solutions.
